@@ -1,0 +1,20 @@
+body {
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+.four_great_tasks {
+    display: inline;
+}
+/* 
+.multiply, .division, .power, .square_root {
+    width: 500px;
+    height: 200px;
+    border: #f68084 solid 3px;
+} */
+
+.mult {
+    padding: auto;
+    color: black;
+}
